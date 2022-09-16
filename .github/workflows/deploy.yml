@@ -1,4 +1,4 @@
-name: Deploy pages
+name: Build and deploy slide
 on: push
 jobs:
   deploy:

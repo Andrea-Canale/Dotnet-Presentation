@@ -37,7 +37,7 @@ Il framework .NET
 
 .NET è un framework basato su C# che consente di creare backend per siti web, applicazioni cross-platform, bot e tanto altro.
 
-Per fare un paragone e simile a Node.JS solo che usa C# come linguaggio di programmazione.
+Per fare un paragone è simile a Node.JS solo che usa C# come linguaggio di programmazione.
 
 <br>
 
